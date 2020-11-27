@@ -2,9 +2,7 @@
 
 The project goal is to train a **classification model** to predict bad loans on a major lending platform, Lending Club.
 
-Dataset was taken from Kaggle. 
-
-https://www.kaggle.com/wordsforthewise/lending-club?select=rejected_2007_to_2018Q4.csv.gz
+Dataset was taken from [Kaggle](https://www.kaggle.com/wordsforthewise/lending-club?select=rejected_2007_to_2018Q4.csv.gz). 
 
 Unfortunately, this was updated a year ago, so, it's not the most recent data.
 
