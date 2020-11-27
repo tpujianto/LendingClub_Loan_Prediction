@@ -7,9 +7,8 @@ Dataset was taken from [Kaggle](https://www.kaggle.com/wordsforthewise/lending-c
 Unfortunately, this was updated a year ago, so, it's not the most recent data.
 
 ## Project Outline
-1. Exploratory Data Analysis
-2. Feature Engineering
-3. Classification Model
+1. [Exploratory Data Analysis and Feature Engineering](https://github.com/tpujianto/LendingClub_Loan_Prediction/blob/master/loan_predictions_EDA_visualization.ipynb)
+2. [Classification Model](https://github.com/tpujianto/LendingClub_Loan_Prediction/blob/master/loan_prediction_model.ipynb)
 
 ## Results
 CatBoost Classifier was the best model for the purpose. The accuracy of this model was .75.
